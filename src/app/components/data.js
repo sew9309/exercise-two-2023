@@ -1,5 +1,4 @@
 export default [
-[
   {
     "id": "article-one",
     "title": "Article One: First Fake Article",
@@ -27,7 +26,7 @@ export default [
       }
     ],
     "image": {
-      "url": "https://via.placeholder.com/2000x1200",
+      "url": "https://i.kym-cdn.com/entries/icons/original/000/026/489/crying.jpg",
       "alt": "A placeholder image"
     },
     "publishedDate": "Wed Sep 04 2019 17:04:38 GMT-0400"
@@ -200,5 +199,4 @@ export default [
     },
     "publishedDate": "Wed Aug 22 2019 17:04:38 GMT-0400"
   }
-]
 ]

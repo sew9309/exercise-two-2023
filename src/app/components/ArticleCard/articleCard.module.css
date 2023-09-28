@@ -1,0 +1,31 @@
+.articleCard {
+    align-items: center;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 50px;
+    padding: 0px 50px;
+}
+
+.articleCardContent {
+    display: flexbox;
+    padding: 50px;
+}
+
+.articleCardImage {
+    align-items: center;
+    display: flex;
+    padding: 50px;
+    width: 50%;
+    justify-content:center;
+}
+
+.articleCardImage img {
+    max-width:100%;
+    max-height:100%;
+    background-color: red;
+}
+
+.articleHeader{
+    
+}
