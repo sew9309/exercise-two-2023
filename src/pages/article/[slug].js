@@ -13,8 +13,8 @@ export default function Article() {
 
     return (
         <main>
-            <div ClassName={styles.articleHeader} style={{backgroundImage: `url('${articleData.image.url}')`}}>
-            <div ClassName={styles.articleWrapper}>
+            <div className={styles.articleHeader} style={{backgroundImage: `url('${articleData.image.url}')`}}>
+            <div className={styles.articleWrapper}>
                 <h1>{articleData.title}</h1>
                 <p>{new Date(articleData.publishedDate).toDateString()}</p>
                 <p className={styles.articleHeaderBlurb}>{articleData.blurb}</p>

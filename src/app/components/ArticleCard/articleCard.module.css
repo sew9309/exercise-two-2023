@@ -26,6 +26,21 @@
     background-color: red;
 }
 
-.articleHeader{
-    
+.articleWrapper {
+    margin: 0 auto;
+    max-width: 640px;
+}
+
+.articleHeader {
+    background-size: cover;
+    padding: 40px 20px 20px;
+}
+
+.articleHeader h1 {
+    font-size: 48px;
+    font-weight: 400;
+}
+
+.articleHeaderBlurb {
+
 }
