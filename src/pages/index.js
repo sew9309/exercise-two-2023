@@ -5,7 +5,7 @@ import ArticleCard from "../app/components/ArticleCard"
 //import styles from "../app/components/ArticleCard.articleCard.module.css";
 
 export default function Home() {
-  const projectName = "Exercise Two"
+  const projectName = "The Legend of Kitty's Exercise Two"
   
 //console.log(Data);
 //console.log(date);
@@ -13,6 +13,7 @@ export default function Home() {
   return (
     <main>
         <h1>{projectName}</h1>
+        <h3>by Sofia Wheeler</h3>
 
         {Data.map((article) => (
         <ArticleCard

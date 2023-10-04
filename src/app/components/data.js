@@ -1,7 +1,7 @@
 export default [
   {
     "id": "article-one",
-    "title": "Article One: First Fake Article",
+    "title": "Day 1: Kitty Cries at Code",
     "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "articleText": [
       {
@@ -33,7 +33,7 @@ export default [
   },
   {
     "id": "article-two",
-    "title": "Article Two: Another Fake Article",
+    "title": "Day 2: Kitty Bored of Code",
     "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "articleText": [
       {
@@ -58,14 +58,14 @@ export default [
       }
     ],
     "image": {
-      "url": "https://via.placeholder.com/2000x1200",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/White_cat_watching_Wikipedia.jpg",
       "alt": "A placeholder image"
     },
     "publishedDate": "Wed Sep 05 2019 10:04:38 GMT-0400"
   },
   {
     "id": "article-three",
-    "title": "Making Another Article Here",
+    "title": "Day 3: Kitty Up All Night Coding",
     "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "articleText": [
       {
@@ -90,14 +90,14 @@ export default [
       }
     ],
     "image": {
-      "url": "https://via.placeholder.com/2000x1200",
+      "url": "https://media.istockphoto.com/id/1190489967/photo/cat-notebook-computer.jpg?s=612x612&w=0&k=20&c=W0oJX666U_UQZHgCPqjAvywPG4e65MC-9n32nukScCA=",
       "alt": "A placeholder image"
     },
     "publishedDate": "Wed Sep 06 2019 18:04:38 GMT-0400"
   },
   {
     "id": "article-four",
-    "title": "Sample Article: Another Article",
+    "title": "Day 4: Kitty Hacks the World",
     "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "articleText": [
       {
@@ -122,14 +122,14 @@ export default [
       }
     ],
     "image": {
-      "url": "https://via.placeholder.com/2000x1200",
+      "url": "https://i.ytimg.com/vi/3j-11onnuJU/maxresdefault.jpg",
       "alt": "A placeholder image"
     },
     "publishedDate": "Wed Aug 08 2019 12:04:38 GMT-0400"
   },
   {
     "id": "article-five",
-    "title": "Wow! A Fifth Article Already",
+    "title": "Day 5: Kitty Watches Code Tutorial",
     "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "articleText": [
       {
@@ -154,14 +154,14 @@ export default [
       }
     ],
     "image": {
-      "url": "https://via.placeholder.com/2000x1200",
+      "url": "https://i.redd.it/1vj2p4rvvccy.jpg",
       "alt": "A placeholder image"
     },
     "publishedDate": "Wed Aug 10 2019 12:04:38 GMT-0400"
   },
   {
     "id": "article-six",
-    "title": "The Last Article: A Very Cool Fake Article",
+    "title": "Day 6: Kitty Submits Code Assignment *phew*",
     "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "articleText": [
       {
@@ -194,7 +194,7 @@ export default [
       }
     ],
     "image": {
-      "url": "https://via.placeholder.com/2000x1200",
+      "url": "https://i.pinimg.com/1200x/2a/e1/f9/2ae1f91f228b3d58af73daf37facc550.jpg",
       "alt": "A placeholder image"
     },
     "publishedDate": "Wed Aug 22 2019 17:04:38 GMT-0400"
